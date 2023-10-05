@@ -1,5 +1,5 @@
 # Prime-number-finder-without-division
-Prime number finder with division using an algorithm
+Prime number finder without division using an algorithm
 
 ## Task:
 The purpose of this assignment is to explore prime numbers and to improve your C programming skills. In class we learned an algorithm for determining the prime numbers from 1 to 100; You are to implement this algorithm and list all the prime numbers from 1 to 999. After you have done that, you are to experiment with your C code and find the largest prime number you can find using the algorithm.
@@ -11,4 +11,4 @@ Prime numbers from 1 to 999:
 Looking for the largest prime number for MAX = 8381000... </br>
 The largest prime number found for MAX = 8381000: 8380991 </br>
 
-Biggest prime number I could find before I got error "segmentation fault (core dumped)"
+The biggest prime number I could find before I got the error "segmentation fault (core dumped)"
